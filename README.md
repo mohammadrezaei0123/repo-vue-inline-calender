@@ -22,6 +22,11 @@
 ## Components
 * InlineCalender
 * InlineCalenderVertical
+* MonthCalender
+* YearCalender
+* TenYearCalender
+* FullCalender
+* FullCalenderVertical
 
 ### add style
 main.js
